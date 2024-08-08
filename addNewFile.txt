@@ -1,0 +1,1 @@
+adicionando um arquivo remotamente para clonar dentro do repositório local.
